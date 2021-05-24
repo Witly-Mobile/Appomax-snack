@@ -1,0 +1,10 @@
+export const HEADING = 0;
+export const TEXT = 1;
+export const NUMBER = 2;
+export const CURRENCY = 3;
+export const DATE = 5;
+export const CHECKBOX = 6;
+export const PICK_LIST = 7;
+export const IMAGE = 12;
+export const FILE = 13;
+export const DECIMAL = 15;

@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "appomax",
-    "slug": "snack-ece6cd48-6412-42e3-87ca-3865648920d0",
+    "name": "Appomax",
+    "slug": "appomax",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/playstore-icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/playstore-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
